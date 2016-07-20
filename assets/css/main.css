@@ -3061,16 +3061,3 @@
 			}
 
 		}
-
-		.pdf{
-			width: 680px;
-			height: 50px;
-			background-color: #E0E0E0;
-			padding-top: 5px;
-			-webkit-box-shadow: 2px 4px 1px 0px rgba(158,158,158,1);
-            -moz-box-shadow: 2px 4px 1px 0px rgba(158,158,158,1);
-            box-shadow: 2px 4px 1px 0px rgba(158,158,158,1);
-            border-radius: 2px;
-            font-family: "Lato", sans-serif;
-		}
-
